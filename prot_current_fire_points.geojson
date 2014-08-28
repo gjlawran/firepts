@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "FIRE_NUMBE": "V10010", "FIRE_YEAR": 2014, "IGNITION_D": "2014\/04\/22", "FIRE_STATU": "Not Active", "FIRE_CAUSE": "Lightning", "FIRE_CENTR": 2.0, "ZONE": 1.0, "FIRE_ID": 10.0, "FIRE_TYPE": "Fire", "GEOGRAPHIC": "Capilano Watershed", "LATITUDE": 49.3770179, "LONGITUDE": -123.1426849, "CURRENT_SI": 0.009, "FEATURE_CO": "JA70003000", "OBJECTID": 2.0 }, "geometry": { "type": "Point", "coordinates": [ -123.142684904460282, 49.377017896662132 ] } }
+{ "type": "Feature", "properties": { "marker-color": "#76EE00", FIRE_NUMBE": "V10010", "FIRE_YEAR": 2014, "IGNITION_D": "2014\/04\/22", "FIRE_STATU": "Not Active", "FIRE_CAUSE": "Lightning", "FIRE_CENTR": 2.0, "ZONE": 1.0, "FIRE_ID": 10.0, "FIRE_TYPE": "Fire", "GEOGRAPHIC": "Capilano Watershed", "LATITUDE": 49.3770179, "LONGITUDE": -123.1426849, "CURRENT_SI": 0.009, "FEATURE_CO": "JA70003000", "OBJECTID": 2.0 }, "geometry": { "type": "Point", "coordinates": [ -123.142684904460282, 49.377017896662132 ] } }
 ,
 { "type": "Feature", "properties": { "FIRE_NUMBE": "V10058", "FIRE_YEAR": 2014, "IGNITION_D": "2014\/05\/22", "FIRE_STATU": "Not Active", "FIRE_CAUSE": "Person", "FIRE_CENTR": 2.0, "ZONE": 1.0, "FIRE_ID": 58.0, "FIRE_TYPE": "Fire", "GEOGRAPHIC": "Jackass Mountain Train Tracks", "LATITUDE": 50.0465167, "LONGITUDE": -121.541, "CURRENT_SI": 0.3, "FEATURE_CO": "JA70003000", "OBJECTID": 23.0 }, "geometry": { "type": "Point", "coordinates": [ -121.540999996213003, 50.046516703787859 ] } }
 ,
